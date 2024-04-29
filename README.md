@@ -6,7 +6,7 @@ Welcome to the Minibar Graph Library, an intuitive and efficient solution for ge
 - Dynamic Image Creation: Generate images with dynamic data visualization using true color.
 - Customizable Dimensions: Adjust the width, height, and margins of your graphs for optimal fitting.
 - Hex Color Support: Customize the colors of your graphs with hexadecimal values.
-Grid Background: Enhance readability with a grid background that adjusts based on your data range.
+- Grid Background: Enhance readability with a grid background that adjusts based on your data range.
 - Labels and Annotations: Add labels and annotations to improve the comprehensibility of your graphs.
 
 ## Installation 🛠
